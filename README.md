@@ -125,7 +125,6 @@ export MLFLOW_TRACKING_PASSWORD=910ceadbe1a19fa390c4b8499c07310381e3e306
 
 ## 5. Open EC2 and Install docker in EC2 Machine:
 	
-	
 	#optinal
 
 	sudo apt-get update -y
