@@ -156,7 +156,7 @@ export MLFLOW_TRACKING_PASSWORD=910ceadbe1a19fa390c4b8499c07310381e3e306
 
     AWS_ECR_LOGIN_URI = demo>>  058264445982.dkr.ecr.ap-south-1.amazonaws.com
 
-    ECR_REPOSITORY_NAME = mlflow
+    ECR_REPOSITORY_NAME = winequality
 
 
 
